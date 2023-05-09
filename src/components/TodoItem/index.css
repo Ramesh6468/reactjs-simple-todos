@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.todoContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
+.name {
+  color: #000000;
+}
+.button {
+  background-color: #ffffff;
+  border-color: #ff0b37;
+  color: #ff0b37;
+  border-radius: 10px;
+  margin-top: 12px;
+  margin-left: 10px;
+}

@@ -1,0 +1,26 @@
+.bgContainer {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cardContainer {
+  background-color: #ffffff;
+  border-radius: 10px;
+  width: 800px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  color: #ff8542;
+  font-weight: bold;
+}
+.todoList {
+  display: flex;
+  flex-direction: column;
+}
